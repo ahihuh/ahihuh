@@ -1,4 +1,9 @@
-## Hi there 👋
+## You found my Github :hushed:
+
+I'm @ohohoh and this is my github.
+
+- :ledger: [ohohoh.dev](https://ohohoh.dev), my blog 
+- :sunglasses: [my profile](https://www.root-me.org/ohohoh-47809) on Root-me.
 
 <!--
 **ahihuh/ahihuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

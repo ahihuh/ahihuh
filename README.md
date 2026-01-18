@@ -2,7 +2,7 @@
 
 I'm @ohohoh and this is my github.
 
-- :ledger: [ohohoh.dev](https://ohohoh.dev), my blog 
+- :ledger: [ohohoh.blog](https://ohohoh.blog), my blog 
 - :sunglasses: [my profile](https://www.root-me.org/ohohoh-47809) on Root-me.
 
 <!--

